@@ -127,7 +127,7 @@ Handling BRL currency formatting (R$ 1.234,56) with real-time input masks for CP
 **Evandro Henrique** — Flutter Developer
 
 - GitHub: [@EvansHenriq](https://github.com/EvansHenriq)
-- LinkedIn: [linkedin.com/in/evandro-henrique](https://linkedin.com/in/evandro-henrique)
+- LinkedIn: [linkedin.com/in/evandro-henrique-mobile](https://linkedin.com/in/evandro-henrique-mobile)
 
 ## License
 
