@@ -1,4 +1,4 @@
-# 🍰 Bolo - Bakery Management App
+# Confeitô - Bakery Management App
 
 > Aplicativo offline para gestão de pedidos, clientes e produtos de confeitaria.
 
@@ -11,7 +11,7 @@ A mobile bakery management app built with Flutter for a local confectionery busi
 
 ## About the Project
 
-**Bolo** was developed as a capstone project (TCC, 2022) to solve real inventory and order tracking needs for a small bakery. The app runs entirely offline, storing all data locally via SQLite.
+**Confeitô** was developed as a capstone project (TCC, 2022) to solve real inventory and order tracking needs for a small bakery. The app runs entirely offline, storing all data locally via SQLite.
 
 ### Features
 
@@ -84,8 +84,8 @@ lib/
 
 ```bash
 # Clone the repository
-git clone https://github.com/EvansHenriq/bolo.git
-cd bolo
+git clone https://github.com/EvansHenriq/confeito.git
+cd confeito
 
 # Install dependencies
 flutter pub get
