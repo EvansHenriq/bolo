@@ -47,3 +47,4 @@ app.*.map.json
 CLAUDE.md
 analysis_options.yaml
 README.REFERENCIA.MD
+.claude/settings.local.json
