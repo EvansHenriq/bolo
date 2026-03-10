@@ -1,6 +1,6 @@
-import 'package:bolo/core/database/database_helper.dart';
-import 'package:bolo/features/order/data/models/order_item_model.dart';
-import 'package:bolo/features/order/data/models/order_model.dart';
+import 'package:confeito/core/database/database_helper.dart';
+import 'package:confeito/features/order/data/models/order_item_model.dart';
+import 'package:confeito/features/order/data/models/order_model.dart';
 
 class OrderLocalDatasource {
   final DatabaseHelper _dbHelper;

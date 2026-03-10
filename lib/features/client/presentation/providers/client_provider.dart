@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
-import 'package:bolo/features/client/data/models/client_model.dart';
-import 'package:bolo/features/client/data/repositories/client_repository.dart';
+import 'package:confeito/features/client/data/models/client_model.dart';
+import 'package:confeito/features/client/data/repositories/client_repository.dart';
 
 class ClientProvider extends ChangeNotifier {
   final ClientRepository _repository;

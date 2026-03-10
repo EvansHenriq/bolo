@@ -1,9 +1,9 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:bolo/core/utils/formatters.dart';
-import 'package:bolo/features/product/data/models/product_model.dart';
-import 'package:bolo/features/product/presentation/providers/product_provider.dart';
+import 'package:confeito/core/utils/formatters.dart';
+import 'package:confeito/features/product/data/models/product_model.dart';
+import 'package:confeito/features/product/presentation/providers/product_provider.dart';
 import 'package:extended_masked_text/extended_masked_text.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

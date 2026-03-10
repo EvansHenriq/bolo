@@ -1,5 +1,5 @@
-import 'package:bolo/features/product/data/datasources/product_local_datasource.dart';
-import 'package:bolo/features/product/data/models/product_model.dart';
+import 'package:confeito/features/product/data/datasources/product_local_datasource.dart';
+import 'package:confeito/features/product/data/models/product_model.dart';
 
 class ProductRepository {
   final ProductLocalDatasource _datasource;

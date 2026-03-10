@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
-import 'package:bolo/features/order/data/models/order_model.dart';
-import 'package:bolo/features/order/data/repositories/order_repository.dart';
+import 'package:confeito/features/order/data/models/order_model.dart';
+import 'package:confeito/features/order/data/repositories/order_repository.dart';
 
 class OrderProvider extends ChangeNotifier {
   final OrderRepository _repository;

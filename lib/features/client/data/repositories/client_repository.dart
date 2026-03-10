@@ -1,5 +1,5 @@
-import 'package:bolo/features/client/data/datasources/client_local_datasource.dart';
-import 'package:bolo/features/client/data/models/client_model.dart';
+import 'package:confeito/features/client/data/datasources/client_local_datasource.dart';
+import 'package:confeito/features/client/data/models/client_model.dart';
 
 class ClientRepository {
   final ClientLocalDatasource _datasource;

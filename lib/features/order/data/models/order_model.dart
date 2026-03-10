@@ -1,4 +1,4 @@
-import 'package:bolo/features/order/data/models/order_item_model.dart';
+import 'package:confeito/features/order/data/models/order_item_model.dart';
 
 class OrderModel {
   final int? id;

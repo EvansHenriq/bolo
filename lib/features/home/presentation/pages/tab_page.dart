@@ -1,6 +1,6 @@
-import 'package:bolo/features/client/presentation/pages/client_list_page.dart';
-import 'package:bolo/features/order/presentation/pages/order_list_page.dart';
-import 'package:bolo/features/product/presentation/pages/product_list_page.dart';
+import 'package:confeito/features/client/presentation/pages/client_list_page.dart';
+import 'package:confeito/features/order/presentation/pages/order_list_page.dart';
+import 'package:confeito/features/product/presentation/pages/product_list_page.dart';
 import 'package:flutter/material.dart';
 
 class TabPage extends StatefulWidget {

@@ -1,6 +1,6 @@
-import 'package:bolo/core/utils/formatters.dart';
-import 'package:bolo/features/client/data/models/client_model.dart';
-import 'package:bolo/features/client/presentation/providers/client_provider.dart';
+import 'package:confeito/core/utils/formatters.dart';
+import 'package:confeito/features/client/data/models/client_model.dart';
+import 'package:confeito/features/client/presentation/providers/client_provider.dart';
 import 'package:extended_masked_text/extended_masked_text.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

@@ -1,5 +1,5 @@
-import 'package:bolo/core/database/database_helper.dart';
-import 'package:bolo/features/client/data/models/client_model.dart';
+import 'package:confeito/core/database/database_helper.dart';
+import 'package:confeito/features/client/data/models/client_model.dart';
 
 class ClientLocalDatasource {
   final DatabaseHelper _dbHelper;

@@ -1,5 +1,5 @@
-import 'package:bolo/features/order/data/datasources/order_local_datasource.dart';
-import 'package:bolo/features/order/data/models/order_model.dart';
+import 'package:confeito/features/order/data/datasources/order_local_datasource.dart';
+import 'package:confeito/features/order/data/models/order_model.dart';
 
 class OrderRepository {
   final OrderLocalDatasource _datasource;

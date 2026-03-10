@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
-import 'package:bolo/features/product/data/models/product_model.dart';
-import 'package:bolo/features/product/data/repositories/product_repository.dart';
+import 'package:confeito/features/product/data/models/product_model.dart';
+import 'package:confeito/features/product/data/repositories/product_repository.dart';
 
 class ProductProvider extends ChangeNotifier {
   final ProductRepository _repository;

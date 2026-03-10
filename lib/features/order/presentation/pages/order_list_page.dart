@@ -1,9 +1,9 @@
-import 'package:bolo/core/utils/formatters.dart';
-import 'package:bolo/core/widgets/empty_message_widget.dart';
-import 'package:bolo/core/widgets/loading_widget.dart';
-import 'package:bolo/features/order/data/models/order_model.dart';
-import 'package:bolo/features/order/presentation/pages/order_form_page.dart';
-import 'package:bolo/features/order/presentation/providers/order_provider.dart';
+import 'package:confeito/core/utils/formatters.dart';
+import 'package:confeito/core/widgets/empty_message_widget.dart';
+import 'package:confeito/core/widgets/loading_widget.dart';
+import 'package:confeito/features/order/data/models/order_model.dart';
+import 'package:confeito/features/order/presentation/pages/order_form_page.dart';
+import 'package:confeito/features/order/presentation/providers/order_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';

@@ -1,4 +1,4 @@
-import 'package:bolo/features/home/presentation/pages/tab_page.dart';
+import 'package:confeito/features/home/presentation/pages/tab_page.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
@@ -12,7 +12,7 @@ class HomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Bolo',
+          'Confeitô',
           style: textTheme.titleLarge?.copyWith(fontWeight: FontWeight.bold),
         ),
       ),
