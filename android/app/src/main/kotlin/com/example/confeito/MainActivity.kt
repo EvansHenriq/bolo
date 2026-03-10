@@ -1,4 +1,4 @@
-package com.example.bolo
+package com.example.confeito
 
 import io.flutter.embedding.android.FlutterActivity
 
